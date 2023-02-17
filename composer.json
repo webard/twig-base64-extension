@@ -1,5 +1,5 @@
 {
-  "name": "basster/twig-base64-extension",
+  "name": "webard/twig-base64-extension",
   "type": "library",
   "require": {
     "php": ">=8.0",
